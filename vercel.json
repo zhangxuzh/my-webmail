@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/forward",
+      "schedule": "*/10 * * * *" 
+    }
+  ]
+}
