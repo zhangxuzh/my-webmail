@@ -6,3 +6,11 @@
     "nodemailer": "^6.9.13"
   }
 }
+{
+  "name": "vercel-mail-forwarder",
+  "version": "1.0.0",
+  "dependencies": {
+    "imapflow": "^1.0.164",
+    "nodemailer": "^6.9.13"
+  }
+}
